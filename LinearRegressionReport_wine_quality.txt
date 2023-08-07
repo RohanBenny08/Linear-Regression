@@ -1,0 +1,12 @@
+RESULT FOR LINEAR REGRESSION ON wine_quality data
+Training Data File : data\wine_quality_train.csv
+Test Data File : data\wine_quality_test.csv
+The no of variables : 11, no of entries : 2999, no of regression coefficients : 12
+R^2 score : 0.1706468598341644
+Regression parameters : [ 5.02717071e-02 -3.24454462e-01 -6.06386588e-02  3.21490911e-02
+ -5.06309562e-01  1.13510024e-03 -2.88199131e-04 -6.40379963e+01
+  3.72983146e-01  3.14684816e-01  5.53495627e-02]
+F Score : 0.39376259427758353
+Test Statistic : 271.54545454545456
+P-Value : 0.0
+Both tests returned the same result
